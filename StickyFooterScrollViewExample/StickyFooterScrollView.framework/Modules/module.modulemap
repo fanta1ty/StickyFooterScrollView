@@ -1,0 +1,11 @@
+framework module StickyFooterScrollView {
+  umbrella header "StickyFooterScrollView.h"
+
+  export *
+  module * { export * }
+}
+
+module StickyFooterScrollView.Swift {
+    header "StickyFooterScrollView-Swift.h"
+    requires objc
+}
