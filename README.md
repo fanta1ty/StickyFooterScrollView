@@ -8,7 +8,6 @@ StickyFooterScrollView is a simple and flexible UI component fully written in Sw
 [![License](https://img.shields.io/cocoapods/l/StickyFooterScrollView.svg?style=flat)](https://cocoapods.org/pods/StickyFooterScrollView)
 [![Platform](https://img.shields.io/cocoapods/p/StickyFooterScrollView.svg?style=flat)](https://cocoapods.org/pods/StickyFooterScrollView)
 
-![alt text](https://github.com/fanta1ty/StickyFooterScrollView/blob/master/StickyFooterScrollView/Assets/Screenshot.png)
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -78,6 +77,8 @@ confirmButton.setTitle("OK", for: .normal)
 
 scrollView.applyFooterView(confirmButton, with: .init(top: 24, left: 24, bottom: 24, right: 24))
 ```
+
+![alt text](https://github.com/fanta1ty/StickyFooterScrollView/blob/master/StickyFooterScrollView/Assets/Screenshot.png)
 
 ## Author
 
