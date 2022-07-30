@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  StickyFooterScrollView: 334f557bec07eab787aceea9fb92c690d39f1310
+  StickyFooterScrollView: 53d4ea0b9e6136256ef727ae9dd8b33d24995a8d
 
 PODFILE CHECKSUM: c2522f706e6153abf70372c2809473f287c2aa3d
 
