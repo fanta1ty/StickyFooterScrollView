@@ -24,7 +24,7 @@ pod 'StickyFooterScrollView'
 
 ## Author
 
-thinhnguyen12389, thinh.ducnguyen@gft.com
+fanta1ty, thinhnguyen12389@gmail.com
 
 ## License
 
