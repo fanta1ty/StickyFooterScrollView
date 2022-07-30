@@ -1,3 +1,5 @@
+![LOGO](https://github.com/fanta1ty/StickyFooterScrollView/blob/master/StickyFooterScrollView/Assets/logo.png)
+
 # StickyFooterScrollView
 
 [![CI Status](https://img.shields.io/travis/thinhnguyen12389/StickyFooterScrollView.svg?style=flat)](https://travis-ci.org/thinhnguyen12389/StickyFooterScrollView)
