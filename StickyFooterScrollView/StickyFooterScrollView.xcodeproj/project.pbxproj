@@ -7,13 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CD58684A288A800E0098530D /* StickyFooterScrollView.h in Headers */ = {isa = PBXBuildFile; fileRef = CD586849288A800E0098530D /* StickyFooterScrollView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CD586852288A80490098530D /* StickyFooterScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD586851288A80490098530D /* StickyFooterScrollView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		CD586846288A800E0098530D /* StickyFooterScrollView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = StickyFooterScrollView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		CD586849288A800E0098530D /* StickyFooterScrollView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StickyFooterScrollView.h; sourceTree = "<group>"; };
 		CD586851288A80490098530D /* StickyFooterScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StickyFooterScrollView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -48,7 +46,6 @@
 			isa = PBXGroup;
 			children = (
 				CD586850288A803E0098530D /* Class */,
-				CD586849288A800E0098530D /* StickyFooterScrollView.h */,
 			);
 			path = StickyFooterScrollView;
 			sourceTree = "<group>";
@@ -68,7 +65,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CD58684A288A800E0098530D /* StickyFooterScrollView.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
