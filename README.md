@@ -78,6 +78,15 @@ confirmButton.setTitle("OK", for: .normal)
 scrollView.applyFooterView(confirmButton, with: .init(top: 24, left: 24, bottom: 24, right: 24))
 ```
 
+6) On function ``viewDidAppear``, call the function ``updateLayout`` for constraint UI
+```swift
+override func viewDidAppear(_ animated: Bool) {
+super.viewDidAppear(animated)
+
+contentView.scrollView.updateLayout()
+}
+```
+
 ![alt text](https://github.com/fanta1ty/StickyFooterScrollView/blob/master/StickyFooterScrollView/Assets/Screenshot.png)
 
 ## Author
