@@ -3,10 +3,11 @@
 # StickyFooterScrollView
 StickyFooterScrollView is a simple and flexible UI component fully written in Swift.
 
-[![CI Status](https://img.shields.io/travis/thinhnguyen12389/StickyFooterScrollView.svg?style=flat)](https://travis-ci.org/thinhnguyen12389/StickyFooterScrollView)
+[![Swift 5.0](https://img.shields.io/badge/Swift-5.0-brightgreen)](https://developer.apple.com/swift/)
 [![Version](https://img.shields.io/cocoapods/v/StickyFooterScrollView.svg?style=flat)](https://cocoapods.org/pods/StickyFooterScrollView)
 [![License](https://img.shields.io/cocoapods/l/StickyFooterScrollView.svg?style=flat)](https://cocoapods.org/pods/StickyFooterScrollView)
 [![Platform](https://img.shields.io/cocoapods/p/StickyFooterScrollView.svg?style=flat)](https://cocoapods.org/pods/StickyFooterScrollView)
+[![Email](https://img.shields.io/badge/contact-@thinhnguyen12389@gmail.com-blue)](thinhnguyen12389@gmail.com)
 
 ## Example
 
