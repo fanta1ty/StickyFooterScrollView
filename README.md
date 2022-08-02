@@ -1,7 +1,7 @@
 ![LOGO](https://github.com/fanta1ty/StickyFooterScrollView/blob/master/StickyFooterScrollView/Assets/logo.png)
 
 # StickyFooterScrollView
-StickyFooterScrollView is a simple and flexible UI component fully written in Swift.
+StickyFooterScrollView is developed for quick creation of UIScrollView to implement. Usually when creating UIScrollView, developers have to declare and adjust many complex UI constraints to use, StickyFooterScrollView was developed to solve the above problem. StickyFooterScrollView focuses on quick initialization of UIScrollView and its ease of use with a few declared simple functions
 
 [![Swift 5.0](https://img.shields.io/badge/Swift-5.0-brightgreen)](https://developer.apple.com/swift/)
 [![Version](https://img.shields.io/cocoapods/v/StickyFooterScrollView.svg?style=flat)](https://cocoapods.org/pods/StickyFooterScrollView)
